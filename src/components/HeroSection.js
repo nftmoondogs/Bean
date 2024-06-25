@@ -6,7 +6,10 @@ export default function HeroSection() {
     <div className="hero-container">
       <div className="gif-container transition duration-500 ease-in-out ">
         <img src="https://i.ibb.co/vqrHFyG/green-title-text.gif" alt="Dynamic Background" />
+        
       </div>
+      
     </div>
+    
   );
 }
