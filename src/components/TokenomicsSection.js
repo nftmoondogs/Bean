@@ -23,7 +23,7 @@ const TokenomicsSection = () => {
 </h2>
 
           <p className="mb-4">
-            $BEAN PreSale will take place on Moonshot🟢🌙, BEAN WILL MAKE JEETS CRY
+            $BEAN PreSale will take place on Pump.Fun💊, BEAN WILL MAKE JEETS CRY
           </p>
           <h3 className="text-2xl font-bold mb-4 flashy-text">Radium is FREEDOM???</h3>
           <ul className="list-disc list-inside space-y-2">
