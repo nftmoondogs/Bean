@@ -5,7 +5,7 @@ export default function HeroSection() {
   return (
     <div className="hero-container">
       <div className="gif-container transition duration-500 ease-in-out ">
-        <img src="https://i.ibb.co/vqrHFyG/green-title-text.gif" alt="Dynamic Background" />
+        <img src="https://i.ibb.co/bbrnXr4/allsides.gif" alt="Dynamic Background" />
         
       </div>
       
