@@ -7,7 +7,7 @@ const TokenomicsSection = () => {
         {`
           @keyframes textFlash {
             0%, 100% { color: white; }
-            50% { color: #32CD32; } /* Light green color */
+            50% { color: #FF0000; } /* Light green color */
           }
 
           .flashy-text {
