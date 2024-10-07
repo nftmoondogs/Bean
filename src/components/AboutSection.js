@@ -17,9 +17,9 @@ export default function AboutSection() {
       </style>
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
         {/* Left Side Content */}
-        <p className="font-courier text-6xl mb-8">BEAN TOKEN launching on Pump.Fun💊</p>
-        <a href="https://pump.fun/board" target="_blank">
-  <button type="button" class="text-gray-900 bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-lime-300 dark:focus:ring-lime-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">Buy on Pump.Fun💊</button>
+        <p className="font-courier text-6xl mb-8">BEAN TOKEN launching on MoonShot🌙</p>
+        <a href="https://dexscreener.com/moonshot" target="_blank">
+  <button type="button" class="text-gray-900 bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-lime-300 dark:focus:ring-lime-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">Buy on MoonShot🌙</button>
 </a>
         <div className="font-stone"> {/* Apply the font to the entire div to affect all child text elements */}
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 flashy-text">Tiny Devil of Sol REKT by The Titans of his world </h2>
