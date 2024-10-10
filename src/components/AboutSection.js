@@ -18,7 +18,7 @@ export default function AboutSection() {
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
         {/* Left Side Content */}
         <p className="font-courier text-6xl mb-8">BEAN TOKEN launching on MovePump💙</p>
-        <a href="https://movepump.com/" target="_blank">
+        <a href="https://movepump.com/token/0x6607d17f84173396f9966f0ee106c135a2a9cb6fa0c132f59dc88baa04e3ce00::bean::BEAN" target="_blank">
   <button type="button" class="text-gray-900 bg-gradient-to-r from-sky-400 via-sky-400 to-sky-100 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-lime-300 dark:focus:ring-lime-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">Buy on MovePump💙</button>
 </a>
         <div className="font-stone"> {/* Apply the font to the entire div to affect all child text elements */}
