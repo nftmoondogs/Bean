@@ -7,7 +7,7 @@ export default function Navbar() {
         {`
           @keyframes colorChange {
             0% { color: white; fill: white; }
-            50% { color: #32CD32; fill: #32CD32; } /* Light green color for both text and SVG fill */
+            50% { color: #72bef3; fill: #72bef3; } /* Light green color for both text and SVG fill */
             100% { color: white; fill: white; }
           }
 
@@ -20,7 +20,7 @@ export default function Navbar() {
         <div className="container mx-auto flex justify-between items-center px-4 xl:px-0">
           <div className="flex items-center">
             <a href="/" className="flex items-center">
-              <img src="https://i.ibb.co/5Fv96rW/BEAN-MAIN-LOGO.gif" alt="ZERO" className="h-12 mr-3" />
+              <img src="https://i.ibb.co/0hL4Vp1/main-LOGO.gif" alt="ZERO" className="h-12 mr-3" />
               <h2 className="text-2xl font-bold flashy-text">$BEAN</h2>
             </a>
           </div>

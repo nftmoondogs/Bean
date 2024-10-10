@@ -7,7 +7,7 @@ const FooterSection = () => {
         {`
           @keyframes textFlash {
             0%, 100% { color: white; }
-            50% { color: #32CD32; } /* Adjust the color to fit your design */
+            50% { color: #72bef3; } /* Adjust the color to fit your design */
           }
 
           .flashy {
@@ -19,7 +19,7 @@ const FooterSection = () => {
         <div className="container mx-auto text-center grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           {/* Logo and Title */}
           <div>
-            <img src="https://i.ibb.co/5Fv96rW/BEAN-MAIN-LOGO.gif" alt="Logo" className="mx-auto mb-4 h-20 w-auto transition duration-300 ease-in-out hover:scale-105" />
+            <img src="https://i.ibb.co/0hL4Vp1/main-LOGO.gif" alt="Logo" className="mx-auto mb-4 h-20 w-auto transition duration-300 ease-in-out hover:scale-105" />
             <h2 className="text-3xl font-bold flashy">$BEAN Token</h2> {/* Apply the flashy class here */}
           </div>
           
